@@ -33,7 +33,7 @@ const EducationAndSkill = () => {
           </div>
           <div className="card max-w-[500px] max-lg:w-[335px] box-border bg-[#161616] lg:pt-4 lg:pl-6 lg:pb-4 lg:pr-6 max-lg:pt-2 max-lg:pl-4 max-lg:pb-2 max-lg:pr-4 border-l-[#009e66] border-l-2 mb-5">
             {/* <span className='before:absolute before:left-0 before:h-4 before:w-4 before:bg-[#009e66] after:absolute after:border-[8px] after:border-solid after:border-[#009e66] after:left-4'></span> */}
-            <h1 className="inline text-lg">Barguna Govt Hign School</h1>
+            <h1 className="inline text-lg">Barguna Zila School</h1>
             <p className="text-[#9f9f9f] text-base pb-1 pt-1">
               Barguna{" "}
               <span className="text-xs">(Jan'1'2014 - May'20'2019)</span>

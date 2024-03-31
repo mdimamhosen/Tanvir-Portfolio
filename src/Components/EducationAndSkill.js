@@ -53,8 +53,8 @@ const EducationAndSkill = () => {
       </div>
       {/* skill */}
       <div>
-        <div className="flex justify-center   w-full">
-          <div className="py-4 mt-3   w-11/12 mx-auto">
+        <div className="flex justify-center items-center  w-full">
+          <div className="py-4 mt-3    lg:w-[60%] md:w-[70%] w-11/12   mx-auto">
             <div className="">
               <p className="text-thin text-[#9f9f9f]">
                 My level of knowledge in some tools

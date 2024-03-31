@@ -43,8 +43,8 @@ const Contact = () => {
       </p>
       <h1 className="  text-center text-2xl lg:text-4xl ">Contact Me</h1>
 
-      <div className="w-11/12 mx-auto pt-6 flex lg:gap-4 gap-6 justify-between max-md:flex-col sm:top-[65%] sm:mt-0 max-md:top-full  ">
-        <div className="md:px-12 w-full lg:w-1/2 lg:pl-5 lg:pr-10 rounded-2xl shadow-2xl ">
+      <div className="w-11/12 lg:w-[85%] mx-auto pt-6 flex lg:gap-4 gap-6 justify-between flex-col lg:flex-row sm:top-[65%] sm:mt-0 max-md:top-full  ">
+        <div className="md:px-12 w-full lg:w-[59%] lg:pl-5 lg:pr-10 rounded-2xl shadow-2xl ">
           <div className="flex">
             <h1 className="font-bold text-2xl">Send us a message</h1>
           </div>
@@ -99,7 +99,7 @@ const Contact = () => {
             </div>
           </form>
         </div>
-        <div className="pl-8 rounded-2xl shadow-2xl flex w-full lg:w-1/2">
+        <div className="lg:pl-10 pl-4 py-3 px-2 rounded-2xl shadow-2xl flex w-full lg:w-[40%]">
           <div>
             <h1 className="font-bold text-2xl   pb-5">Contact Info</h1>
             <p className="text-[#9f9f9f]">
